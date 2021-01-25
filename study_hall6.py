@@ -60,6 +60,6 @@ import numpy as np
 
 # print(stats.norm.cdf(59, loc=63, scale=2))
 
-from math import pi
+# from math import pi
 
-print(np.arcsin((np.sqrt(3)/2)) == pi/3)
+# print(np.arcsin((np.sqrt(3)/2)) == pi/3)

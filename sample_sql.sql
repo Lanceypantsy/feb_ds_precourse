@@ -1,0 +1,4 @@
+-- SELECT continent, AVG(population)
+-- FROM country
+-- HAVING population > AVG(population)
+-- GROUP BY continent;
